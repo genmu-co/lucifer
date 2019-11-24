@@ -1,4 +1,5 @@
 # ルシファーHL攻略まとめ
+![ルシファー](https://lh3.googleusercontent.com/CPqdD1e60QnCynCiOVf6uXROXtop7O5X38FE4eoS4YHds_AuXRS9KvP97JVegSs5lCIqbAigjVt7E9DS5Wn-NtEZTTEk_yoPi_Kvmx32am_3 "ルシファー")  
 ## 各属性毎に必要な情報をまとめます。各属性のリンクは下記からどうぞ
 * [火属性](/fire.md)
 * [水属性](/water.md)
