@@ -19,8 +19,7 @@ VCの参加は必須です。ミュート（聞き専）も可能ですが、フ
 自分が召喚して合体しなかった場合はアルバコアスタンプを使用  
 ![アルバコア](https://lh3.googleusercontent.com/P-mYDj7jnuOwSzcHfeyrgVoY2vQVbO96BoQDbaqjNC4oOLExxo8kLyqf5zpcSeXKTP4EcJN0UkWTxIC96H9EteJ1Ye8gE5Q_BIzoN1bwRSg "アルバコア")  
 自分が召喚して合体した場合はウォウウォウイェースタンプを使用  
-![ウォウウォウイェー](https://lh3.googleusercontent.com/t4mjJypZlrKabbSXyz79QNYrUj-eMhpvAWs1aUJTi6eThJaozkUMxUH6zH9NJ_lw_AaleRCE0kWh9vpI5vur_FcQ-6PFTjO_G0rjRrRmitfN7w "ウォウウォウイェー")
-]  
+![ウォウウォウイェー](https://lh3.googleusercontent.com/t4mjJypZlrKabbSXyz79QNYrUj-eMhpvAWs1aUJTi6eThJaozkUMxUH6zH9NJ_lw_AaleRCE0kWh9vpI5vur_FcQ-6PFTjO_G0rjRrRmitfN7w "ウォウウォウイェー")  
 ※これは幻夢団のローカルルールです。  
 スタンプを押さないとあとで誰が最後に何を使ったのかわからなくなるので絶対に押してください。
 
