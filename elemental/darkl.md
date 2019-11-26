@@ -1,12 +1,12 @@
 # 闇属性について
 ## 各リンクは下記からどうぞ
-* [TOP](/README.md)
-* [火属性](/fire.md)
-* [水属性](/water.md)
-* [風属性](/wind.md)
-* [土属性](/earth.md)
-* [光属性](/lite.md)
-* [闇属性](/dark.md)
+* [TOP](../README.md)
+* [火属性](fire.md)
+* [水属性](water.md)
+* [風属性](wind.md)
+* [土属性](earth.md)
+* [光属性](lite.md)
+* [闇属性](dark.md)
 
 ## 目次
 * [編集者](#編集者)
