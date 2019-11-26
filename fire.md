@@ -1,6 +1,7 @@
 # 火属性について
 ## 各リンクは下記からどうぞ
 * [TOP](/README.md)
+* [火属性](/fire.md)
 * [水属性](/water.md)
 * [風属性](/wind.md)
 * [土属性](/earth.md)
