@@ -43,6 +43,6 @@ VCの参加は必須です。ミュート（聞き専）も可能ですが、フ
 #### ポーション
 使いたい時に使う。最初に使いすぎてあとで使えないってことは無いようにルシフェルをもらったり自力回復を心がける。
 
-基本の進行
-ここを見ろ↓
-https://www.youtube.com/watch?v=ZWIK3-LYHOc
+### 基本の進行
+ここを見ろ↓  
+https://www.youtube.com/watch?v=ZWIK3-LYHOc  
