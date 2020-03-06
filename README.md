@@ -21,11 +21,11 @@ VCの参加は必須です。ミュート（聞き専）も可能ですが、フ
 ![アルバコア](https://lh3.googleusercontent.com/P-mYDj7jnuOwSzcHfeyrgVoY2vQVbO96BoQDbaqjNC4oOLExxo8kLyqf5zpcSeXKTP4EcJN0UkWTxIC96H9EteJ1Ye8gE5Q_BIzoN1bwRSg "アルバコア")  
 自分が召喚して合体した場合はウォウウォウイェースタンプを使用  
 ![ウォウウォウイェー](https://lh3.googleusercontent.com/t4mjJypZlrKabbSXyz79QNYrUj-eMhpvAWs1aUJTi6eThJaozkUMxUH6zH9NJ_lw_AaleRCE0kWh9vpI5vur_FcQ-6PFTjO_G0rjRrRmitfN7w "ウォウウォウイェー")  
-※これは幻夢団のローカルルールです。  
+※これはアルゴノーツのローカルルールです。  
 スタンプを押さないとあとで誰が最後に何を使ったのかわからなくなるので絶対に押してください。
 
 ### ジョブについて
-基本的にスパルタ限定です。光闇は終末グローリーを使うこともありますが、基本的にはスパルタで。  
+基本的にスパルタ限定です。光闇は終末グローリーを使うこともありますが、あまりメリットがないのでナシ。
 #### アビリティ
 * ファランクス  
 設定→バトル設定→参戦者のアビリティ使用通知はONにしてください。
@@ -42,3 +42,7 @@ VCの参加は必須です。ミュート（聞き専）も可能ですが、フ
 ファランクスと合わせて使うと100％カットで本体のトリガー技を受けることが出来る。強い。
 #### ポーション
 使いたい時に使う。最初に使いすぎてあとで使えないってことは無いようにルシフェルをもらったり自力回復を心がける。
+
+基本の進行
+ここを見ろ↓
+https://www.youtube.com/watch?v=ZWIK3-LYHOc
